@@ -28,9 +28,9 @@ These locations are sent to Apple to answer those requests. They are not sent to
 The Application does not transmit your information to the Service Provider or to any third party other than Apple, as described above under **Location**. Apple's handling of that data is governed by their own privacy policy:
 
 * [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
-* [Apple Location Services & Privacy](https://support.apple.com/en-us/HT207056)
-* [Apple Weather Privacy](https://www.apple.com/legal/privacy/data/en/apple-weather/)
-* [Apple Maps Privacy](https://www.apple.com/legal/privacy/data/en/apple-maps/)
+* [Location Services & Privacy](https://www.apple.com/legal/privacy/data/en/location-services/)
+* [Weather & Privacy](https://www.apple.com/legal/privacy/data/en/weather/)
+* [Apple Maps & Privacy](https://www.apple.com/legal/privacy/data/en/apple-maps/)
 
 The Service Provider may disclose information it holds:
 

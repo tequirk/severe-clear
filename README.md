@@ -12,7 +12,7 @@ Check out the User Guide for information on how to use the application.
 
 ## Issues
 
-If you encounter any issues while using the application, please report them [here](https://github.com/severe-clear/issues).
+If you encounter any issues while using the application, please report them [here](https://github.com/tequirk/severe-clear/issues).
 
 
 

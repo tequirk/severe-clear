@@ -8,7 +8,7 @@ Find us here on the Apple App Store (coming soon!).
 
 ## Usage
 
-Check out the User Guide for information on how to use the application.
+Check out the [User Guide](USER_GUIDE.md) for information on how to use the application.
 
 ## Issues
 

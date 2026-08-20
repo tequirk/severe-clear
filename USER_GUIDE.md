@@ -22,7 +22,7 @@ You can select different route options to see how they compare.
 
 If you decide to change your origin, destination, or departure time, simply tap the magnifying glass to search again.
 
-## Recents
+## Viewing Recents
 
 Tap the clock button to see a list of trips you've planned before.
 

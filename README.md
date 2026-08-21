@@ -18,4 +18,4 @@ If you encounter any issues while using the application, please report them [her
 
 ---
 
-Copyright © 2025 Tequirk LLC. All Rights Reserved.
+Copyright © 2026 Tequirk LLC. All Rights Reserved.

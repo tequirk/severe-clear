@@ -4,7 +4,7 @@ Severe Clear™ is a mobile application, built for iOS, that allows users to see
 
 ## Installation
 
-Find us here on the Apple App Store (coming soon!).
+Find us [here on the Apple App Store](https://apps.apple.com/us/app/severe-clear/id6804534052).
 
 ## Usage
 
